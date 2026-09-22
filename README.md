@@ -37,3 +37,4 @@ if image_file is not None:
         > 1. Watch the stroke order first.
         > 2. Write slowly and check pencil grip.
         """)
+
